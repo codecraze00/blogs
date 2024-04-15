@@ -1,0 +1,7 @@
+/blogs-server-main/node_modules
+/blogs-web-main/node_modules
+/node_modules
+
+
+/blogs-server-main/.env
+/blogs-web-main/.env
